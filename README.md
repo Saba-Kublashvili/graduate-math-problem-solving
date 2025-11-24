@@ -72,3 +72,8 @@ This guide is designed precisely for that missing role: to give you **mathematic
 
 In short, compared to other math books, this guide is important because it does not just show you *how* to solve these problems; it trains you to understand **why these methods work, when to use them, and how to generalize them**. If you are serious about becoming a stronger problem solver—for competitions or for theoretical research—this is exactly the kind of resource you need.
 
+### How this PDF was created
+
+The material included in this collection—most of it, in fact—already existed by the end of 2023. I then worked to make it more rigorous, polished, and general. This file was mainly transformed into LaTeX format using online tools and some help from large language models.
+
+
